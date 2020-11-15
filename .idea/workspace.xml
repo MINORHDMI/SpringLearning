@@ -20,17 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06675c93-9189-4d02-9991-fd7801e8392a" name="Default Changelist" comment="新增">
-      <change afterPath="$PROJECT_DIR$/src/Bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bean3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/SpellChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint2/JavaCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/SpellChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bean4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bean5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bean6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint4/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint4/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint4/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint5/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint6/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint6/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint6/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloSpring.iml" afterDir="false" />
     </list>
@@ -38,6 +38,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
@@ -86,9 +89,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.MainApp (3)">
+  <component name="RunManager" selected="Application.MainApp">
     <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tutorialspoint1.MainApp" />
       <module name="HelloSpring" />
@@ -103,11 +106,11 @@
       </method>
     </configuration>
     <configuration name="MainApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint2.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint6.MainApp" />
       <module name="HelloSpring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tutorialspoint2.*" />
+          <option name="PATTERN" value="com.tutorialspoint6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +118,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint3.MainApp" />
+    <configuration name="MainApp (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint4.MainApp" />
       <module name="HelloSpring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tutorialspoint3.*" />
+          <option name="PATTERN" value="com.tutorialspoint4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint5.MainApp" />
+      <module name="HelloSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialspoint5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +157,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springexample.MainApp1" />
-      <module name="HelloSpring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.springexample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApp (3)" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.MainApp (2)" />
+        <item itemvalue="Application.MainApp (5)" />
+        <item itemvalue="Application.MainApp (4)" />
         <item itemvalue="Application.MainApp (1)" />
-        <item itemvalue="Application.MainApp1" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +192,7 @@
       <workItem from="1605162831562" duration="2874000" />
       <workItem from="1605357795602" duration="2096000" />
       <workItem from="1605407800493" duration="4529000" />
-      <workItem from="1605419095663" duration="7836000" />
+      <workItem from="1605419095663" duration="12391000" />
     </task>
     <task id="LOCAL-00001" summary="新增">
       <created>1605419904112</created>
@@ -198,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605419904112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增">
+      <created>1605445313939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605445313939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,58 +234,62 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1605358546342" />
-    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1605443079790">
+    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1605449983120">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1605443079790" />
+    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1605449983120" />
     <state x="489" y="299" key="FileChooserDialogImpl" timestamp="1605419213973">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="489" y="299" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1605419213973" />
-    <state width="1995" height="360" key="GridCell.Tab.0.bottom" timestamp="1605444152017">
+    <state width="970" height="301" key="GridCell.Tab.0.bottom" timestamp="1605450251967">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
-    <state width="1995" height="360" key="GridCell.Tab.0.center" timestamp="1605444152017">
+    <state width="970" height="301" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605450251967" />
+    <state width="970" height="301" key="GridCell.Tab.0.center" timestamp="1605450251967">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
-    <state width="1995" height="360" key="GridCell.Tab.0.left" timestamp="1605444152017">
+    <state width="970" height="301" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605450251967" />
+    <state width="970" height="301" key="GridCell.Tab.0.left" timestamp="1605450251967">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
-    <state width="1995" height="360" key="GridCell.Tab.0.right" timestamp="1605444152017">
+    <state width="970" height="301" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605450251967" />
+    <state width="970" height="301" key="GridCell.Tab.0.right" timestamp="1605450251967">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
-    <state width="1995" height="360" key="GridCell.Tab.1.bottom" timestamp="1605444152092">
+    <state width="970" height="301" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605450251967" />
+    <state width="1995" height="360" key="GridCell.Tab.1.bottom" timestamp="1605445264924">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
-    <state width="1995" height="360" key="GridCell.Tab.1.center" timestamp="1605444152092">
+    <state width="1995" height="360" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605445264924" />
+    <state width="1995" height="360" key="GridCell.Tab.1.center" timestamp="1605445264924">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
-    <state width="1995" height="360" key="GridCell.Tab.1.left" timestamp="1605444152092">
+    <state width="1995" height="360" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605445264924" />
+    <state width="1995" height="360" key="GridCell.Tab.1.left" timestamp="1605445264924">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
-    <state width="1995" height="360" key="GridCell.Tab.1.right" timestamp="1605444152092">
+    <state width="1995" height="360" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605445264924" />
+    <state width="1995" height="360" key="GridCell.Tab.1.right" timestamp="1605445264924">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="360" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
-    <state x="511" y="55" key="SettingsEditor" timestamp="1605419711791">
+    <state width="1995" height="360" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605445264924" />
+    <state x="511" y="55" key="SettingsEditor" timestamp="1605447250830">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="511" y="55" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1605419711791" />
-    <state x="517" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605419916217">
+    <state x="511" y="55" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1605447250830" />
+    <state x="517" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605445317619">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="517" y="225" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1605419916217" />
+    <state x="517" y="225" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1605445317619" />
     <state x="499" y="91" key="new project wizard" timestamp="1605418203773">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="499" y="91" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1605418203773" />
+    <state x="1114" y="77" key="search.everywhere.popup" timestamp="1605445969671">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1114" y="77" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1605445969671" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -310,19 +324,11 @@
           <line>9</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java</url>
-          <line>6</line>
-          <properties class="com.tutorialspoint3.TextEditor" method="getSpellChecker">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java</url>
-          <line>3</line>
-          <properties field="spellChecker" class="com.tutorialspoint3.TextEditor" />
-          <option name="timeStamp" value="14" />
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint1/TextEditor.java</url>
+          <line>14</line>
+          <properties field="spellChecker" class="com.tutorialspoint1.TextEditor" />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
