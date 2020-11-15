@@ -19,27 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06675c93-9189-4d02-9991-fd7801e8392a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloSpring/SpringExample.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/springexample/HelloIndia.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/springexample/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/springexample/MainApp1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/tutorialspoint/InitHelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpringExample.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/springexample/HelloIndia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/springexample/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/springexample/MainApp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint/InitHelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="06675c93-9189-4d02-9991-fd7801e8392a" name="Default Changelist" comment="新增">
+      <change afterPath="$PROJECT_DIR$/src/Bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint1/TextEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint2/JavaCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint2/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/SpellChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloSpring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSpring/Beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloSpring/Beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSpring/com/tutorialspoint/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/tutorialspoint/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloSpring/com/tutorialspoint/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloSpring/com/tutorialspoint/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tutorialspoint/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorialspoint/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tutorialspoint/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tutorialspoint/MainApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -71,7 +64,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1kHW2tPfRTJ2K56ZahthBIxgVFB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -93,7 +88,46 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.MainApp1">
+  <component name="RunManager" selected="Application.MainApp (3)">
+    <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint1.MainApp" />
+      <module name="HelloSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialspoint1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint2.MainApp" />
+      <module name="HelloSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialspoint2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint3.MainApp" />
+      <module name="HelloSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialspoint3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tutorialspoint.MainApp" />
       <module name="HelloSpring" />
@@ -133,8 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApp1" />
+        <item itemvalue="Application.MainApp (3)" />
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.MainApp (2)" />
+        <item itemvalue="Application.MainApp (1)" />
+        <item itemvalue="Application.MainApp1" />
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +189,16 @@
       <workItem from="1605162831562" duration="2874000" />
       <workItem from="1605357795602" duration="2096000" />
       <workItem from="1605407800493" duration="4529000" />
-      <workItem from="1605419095663" duration="610000" />
+      <workItem from="1605419095663" duration="7836000" />
     </task>
+    <task id="LOCAL-00001" summary="新增">
+      <created>1605419904112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605419904112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,42 +215,116 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="505" y="131" key="#Project_Structure" timestamp="1605358546342">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1605358546342" />
+    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1605443079790">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1295" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1605443079790" />
     <state x="489" y="299" key="FileChooserDialogImpl" timestamp="1605419213973">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="489" y="299" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1605419213973" />
-    <state width="1995" height="361" key="GridCell.Tab.0.bottom" timestamp="1605419180881">
+    <state width="1995" height="360" key="GridCell.Tab.0.bottom" timestamp="1605444152017">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="361" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605419180881" />
-    <state width="1995" height="361" key="GridCell.Tab.0.center" timestamp="1605419180881">
+    <state width="1995" height="360" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
+    <state width="1995" height="360" key="GridCell.Tab.0.center" timestamp="1605444152017">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="361" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605419180881" />
-    <state width="1995" height="361" key="GridCell.Tab.0.left" timestamp="1605419180881">
+    <state width="1995" height="360" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
+    <state width="1995" height="360" key="GridCell.Tab.0.left" timestamp="1605444152017">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="361" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605419180881" />
-    <state width="1995" height="361" key="GridCell.Tab.0.right" timestamp="1605419180881">
+    <state width="1995" height="360" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
+    <state width="1995" height="360" key="GridCell.Tab.0.right" timestamp="1605444152017">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1995" height="361" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605419180881" />
+    <state width="1995" height="360" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152017" />
+    <state width="1995" height="360" key="GridCell.Tab.1.bottom" timestamp="1605444152092">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1995" height="360" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
+    <state width="1995" height="360" key="GridCell.Tab.1.center" timestamp="1605444152092">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1995" height="360" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
+    <state width="1995" height="360" key="GridCell.Tab.1.left" timestamp="1605444152092">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1995" height="360" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
+    <state width="1995" height="360" key="GridCell.Tab.1.right" timestamp="1605444152092">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1995" height="360" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605444152092" />
     <state x="511" y="55" key="SettingsEditor" timestamp="1605419711791">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="511" y="55" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1605419711791" />
-    <state x="517" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605419458403">
+    <state x="517" y="225" key="Vcs.Push.Dialog.v2" timestamp="1605419916217">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="517" y="225" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1605419458403" />
+    <state x="517" y="225" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1605419916217" />
     <state x="499" y="91" key="new project wizard" timestamp="1605418203773">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="499" y="91" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1605418203773" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/SpellChecker.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/SpellChecker.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/MainApp.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java</url>
+          <line>6</line>
+          <properties class="com.tutorialspoint3.TextEditor" method="getSpellChecker">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/tutorialspoint3/TextEditor.java</url>
+          <line>3</line>
+          <properties field="spellChecker" class="com.tutorialspoint3.TextEditor" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
